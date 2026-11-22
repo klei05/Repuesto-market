@@ -63,3 +63,13 @@ docs/                  PRD, arquitectura, decisiones (ADR), ingeniería inversa,
 | `npm run check` | Lint + tipos + pruebas unitarias (correr antes de cada commit) |
 | `npm run test:integration` | Pruebas de API contra PostgreSQL |
 | `npm run test:e2e` | Pruebas en navegador con Playwright |
+
+## Descripción del proyecto: RepuestoMarket
+
+RepuestoMarket es un marketplace digital para buscar, consultar y comparar repuestos.
+
+El objetivo es facilitar a los usuarios la búsqueda de repuestos mediante un buscador eficiente, un índice invertido y filtros combinados.
+
+El sistema debe organizar la información de los repuestos para que los usuarios puedan encontrar resultados relevantes de manera rápida y sencilla.
+
+Toda implementación debe respetar la estructura del proyecto y las tecnologías definidas en la plantilla.
